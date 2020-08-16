@@ -1,2 +1,0 @@
-# hellocicd
-cicd test repo
